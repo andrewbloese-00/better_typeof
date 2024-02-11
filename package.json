@@ -1,0 +1,12 @@
+{
+  "name": "better_typeof",
+  "version": "0.0.1",
+  "description": "A better typeof function to use in your javascript apps",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Andrew Bloese (andrewbloese-00)",
+  "license": "ISC"
+}
